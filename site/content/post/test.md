@@ -5,3 +5,11 @@ description: This is my intro
 image: /img/about-jumbotron.jpg
 ---
 Body
+
+
+
+![ALT](/img/schermafdruk-van-2019-04-03-09-01-04.png "Title")
+
+https://www.netlifycms.org/
+
+https://www.netlifycms.org/
